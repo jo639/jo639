@@ -1,2 +1,1 @@
-Hello
-kookmin univ. SW
+20223140 jo
